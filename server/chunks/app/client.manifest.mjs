@@ -1,10 +1,10 @@
 const client_manifest = {
-  "_vue.f36acd1f.qIusYQP7.js": {
+  "_vue.f36acd1f.f2x34x7R.js": {
     "resourceType": "script",
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "vue.f36acd1f.qIusYQP7.js",
+    "file": "vue.f36acd1f.f2x34x7R.js",
     "imports": [
       "node_modules/.pnpm/nuxt@3.9.1_vite@5.0.11/node_modules/nuxt/dist/app/entry.js"
     ]
@@ -15,10 +15,10 @@ const client_manifest = {
     "prefetch": true,
     "preload": true,
     "css": [],
-    "file": "error-404.OJ_tp_sQ.js",
+    "file": "error-404.rpC1GDbN.js",
     "imports": [
       "node_modules/.pnpm/nuxt@3.9.1_vite@5.0.11/node_modules/nuxt/dist/app/entry.js",
-      "_vue.f36acd1f.qIusYQP7.js"
+      "_vue.f36acd1f.f2x34x7R.js"
     ],
     "isDynamicEntry": true,
     "src": "node_modules/.pnpm/@nuxt+ui-templates@1.3.1/node_modules/@nuxt/ui-templates/dist/templates/error-404.vue"
@@ -35,9 +35,9 @@ const client_manifest = {
     "prefetch": true,
     "preload": true,
     "css": [],
-    "file": "error-500.PvYInnG4.js",
+    "file": "error-500.tLkJR8Wj.js",
     "imports": [
-      "_vue.f36acd1f.qIusYQP7.js",
+      "_vue.f36acd1f.f2x34x7R.js",
       "node_modules/.pnpm/nuxt@3.9.1_vite@5.0.11/node_modules/nuxt/dist/app/entry.js"
     ],
     "isDynamicEntry": true,
@@ -58,7 +58,7 @@ const client_manifest = {
       "node_modules/.pnpm/@nuxt+ui-templates@1.3.1/node_modules/@nuxt/ui-templates/dist/templates/error-404.vue",
       "node_modules/.pnpm/@nuxt+ui-templates@1.3.1/node_modules/@nuxt/ui-templates/dist/templates/error-500.vue"
     ],
-    "file": "entry.KxygrRAk.js",
+    "file": "entry.bw1Um6Lx.js",
     "isEntry": true,
     "src": "node_modules/.pnpm/nuxt@3.9.1_vite@5.0.11/node_modules/nuxt/dist/app/entry.js"
   },
@@ -67,7 +67,7 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "index.momowHNu.js",
+    "file": "index.4D7Jragg.js",
     "imports": [
       "node_modules/.pnpm/nuxt@3.9.1_vite@5.0.11/node_modules/nuxt/dist/app/entry.js"
     ],
